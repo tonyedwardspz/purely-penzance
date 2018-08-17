@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /.htaccess
+
+User-agent: *
+Disallow: .htaccess
+
+User-agent: Mediapartners-Google
+Disallow:

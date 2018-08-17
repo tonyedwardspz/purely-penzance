@@ -1,0 +1,19 @@
+
+						<ul>
+							<li>
+								<span class="twitter-text">Updated the events calendar today, everything from BMX track days to operatic performances listed - <a href="http://www.westcornwallevents.co.uk/">http://www.westcornwallevents.co.uk/</a></span>
+							</li>
+							<li>
+								<span class="twitter-text">Burlesque Workshop in Penzance this weekend - <a href="http://westcornwallevents.co.uk/blog/burlesque-workshop-penzance/">http://westcornwallevents.co.uk/blog/burlesque-workshop-penzance/</a></span>
+							</li>
+							<li>
+								<span class="twitter-text">Pirates denied win in the dying minutes. - <a href="http://bit.ly/cgsGeJ">http://bit.ly/cgsGeJ</a></span>
+							</li>
+							<li>
+								<span class="twitter-text">West Cornwall Pub makes it into Michelin Food Guide - <a href="http://bit.ly/bLWGvb">http://bit.ly/bLWGvb</a></span>
+							</li>
+							<li>
+								<span class="twitter-text">Save money and get cashback while shopping online with Quidco:... <a href="http://bit.ly/aJ94rF">http://bit.ly/aJ94rF</a></span>
+							</li>
+						</ul>
+						
