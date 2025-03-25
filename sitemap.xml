@@ -138,11 +138,6 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.purelypenzance.co.uk/shopping/featured/mjs_furniture.html</loc>
-  <lastmod>2018-08-19T10:11:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
   <loc>https://www.purelypenzance.co.uk/shopping/featured/seasalt_clothing.html</loc>
   <lastmod>2018-08-19T10:11:48+00:00</lastmod>
   <priority>0.80</priority>
@@ -1013,11 +1008,6 @@
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.purelypenzance.co.uk/winedine/takeaway_menu/chinese_indian/indian_taj_mahal_takeaway_menu.html</loc>
-  <lastmod>2018-08-19T10:11:48+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
   <loc>https://www.purelypenzance.co.uk/travel/bus_train_times.html</loc>
   <lastmod>2018-08-19T10:11:48+00:00</lastmod>
   <priority>0.51</priority>
@@ -1132,56 +1122,9 @@
   <lastmod>2018-08-19T10:11:48+00:00</lastmod>
   <priority>0.51</priority>
 </url>
-<url>
-  <loc>https://www.purelypenzance.co.uk/winedine/takeaway_menu/fish_chips_kebabs/hollywood_pizza_huckleberrys_cinema.html</loc>
-  <lastmod>2018-08-19T10:11:48+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.purelypenzance.co.uk/winedine/takeaway_menu/fish_chips_kebabs/alverton_kebab.html</loc>
-  <lastmod>2018-08-19T10:11:48+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.purelypenzance.co.uk/winedine/takeaway_menu/fish_chips_kebabs/dominic_pizza.html</loc>
-  <lastmod>2018-08-19T10:11:48+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.purelypenzance.co.uk/winedine/articles/health_indian_food.html</loc>
-  <lastmod>2018-08-19T10:11:48+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.purelypenzance.co.uk/winedine/takeaway_menu/chinese_indian/chinese_full_house_takeaway_menu.html</loc>
-  <lastmod>2018-08-19T10:11:48+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.purelypenzance.co.uk/winedine/takeaway_menu/chinese_indian/china_garden_newlyn_takeaway_menu.html</loc>
-  <lastmod>2018-08-19T10:11:48+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.purelypenzance.co.uk/winedine/takeaway_menu/chinese_indian/chinese_new_hong_kong_takeaway_menu.html</loc>
-  <lastmod>2018-08-19T10:11:48+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.purelypenzance.co.uk/winedine/takeaway_menu/chinese_indian/chinese_modern_chinese_takeaway_menu.html</loc>
-  <lastmod>2018-08-19T10:11:48+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.purelypenzance.co.uk/winedine/takeaway_menu/chinese_indian/chinese_new_sunny_city_takeaway_menu.html</loc>
-  <lastmod>2018-08-19T10:11:48+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.purelypenzance.co.uk/winedine/takeaway_menu/chinese_indian/thai_thai_moon.html</loc>
-  <lastmod>2018-08-19T10:11:48+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
+
+
+
 <url>
   <loc>https://www.purelypenzance.co.uk/wheretostay/penzance_district_tourism_association_accomodation/artist_residence_hotel.html</loc>
   <lastmod>2018-08-19T10:11:48+00:00</lastmod>
